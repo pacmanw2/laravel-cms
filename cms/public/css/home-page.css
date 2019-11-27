@@ -1,0 +1,26 @@
+.jumbotron {
+    background-color: #00FF9F!important;
+}
+
+/*.btn-green {*/
+/*    background-color: #00FF9F!important;*/
+/*}*/
+
+/*.border-green {*/
+/*    border-color: #00CC7F!important;*/
+/*}*/
+
+/*.btn-green:hover {*/
+/*    background-color: #008CBA;*/
+/*    color: white;*/
+/*}*/
+
+.btn-primary {
+    background-color: #00FF9F!important;
+    border-color: #00CC7F!important;
+}
+
+.btn-primary:hover {
+    background-color: #00CC7F!important;
+    color: white;
+}
