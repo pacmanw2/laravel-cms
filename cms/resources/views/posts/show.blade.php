@@ -6,5 +6,6 @@
         <h2>{{$post->title}}</h2>
         <h2>{{$post->description}}</h2>
         <h2>{{$post->file_name}}</h2>
+        <h2>Data</h2>
     </div>
 @endsection
