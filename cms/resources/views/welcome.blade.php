@@ -70,7 +70,7 @@
                     and also any other stats that I find interesting or am able to produce about
                     my type 1 diabetes. The data originates from my FreeStyle Libre 14 Day CGM.
                 </p>
-                <a href="/archives" class="btn btn-primary btn-lg" role="button">
+                <a href="/posts" class="btn btn-primary btn-lg" role="button">
                     Archives
                 </a>
             </div>

@@ -3,7 +3,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>Business Frontpage - Start Bootstrap Template</title>
+<title>Diabetic Stats</title>
 
 <script src="https://kit.fontawesome.com/c79a0f92a9.js" crossorigin="anonymous"></script>
 

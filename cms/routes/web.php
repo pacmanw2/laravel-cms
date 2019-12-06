@@ -15,7 +15,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/', 'PagesController@home');
-Route::get('/about', 'PagesController@about');
-Route::get('/archives', 'PagesController@archives');
-
+Route::resource('posts', 'PostsController');
+//Route::get('/', 'PagesController@home');
+//Route::get('/about', 'PagesController@about');
+//Route::get('/posts', 'PostsController@index');
+//Route::get('/posts/{post}', 'PostsController@show');
+//Route::get('/posts', 'PostsController@store');
+//Route::get('/posts/{post}/edit', 'PostsController@edit');
+//Route::patch('/posts/{post}', 'PostsController@update');
+//Route::delete('/posts/{post}', 'PostsController@destroy');
