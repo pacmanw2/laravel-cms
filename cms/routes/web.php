@@ -16,6 +16,7 @@ Route::get('/', function () {
 });
 
 Route::resource('posts', 'PostsController');
+Route::resource('bg', 'BloodGlucoseController');
 //Route::get('/', 'PagesController@home');
 //Route::get('/about', 'PagesController@about');
 //Route::get('/posts', 'PostsController@index');
