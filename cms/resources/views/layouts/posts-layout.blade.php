@@ -3,6 +3,7 @@
 <head>
     @include('includes.head')
     <link href="{{ asset('css/archives.css') }}" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 </head>
 <body>
     <div class="sidebar">
